@@ -1,0 +1,10 @@
+
+{
+  "name": "Liquid-Station-Mod",
+  "version": "0.2.0",
+  "title": "Liquid Station Mod",
+  "author": "btw",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=2797",
+  "dependencies": ["base >= 0.9.0"],
+  "description": "This mod adds a liquid station to fill/empty all kind of vanilla fluids into/from barrels."
+}
